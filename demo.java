@@ -5,5 +5,7 @@ class Demo
     println(" Test code");
   }
 }
+CODE B
 by praveen rao
+
 
